@@ -93,7 +93,7 @@ Thus, make sure to follow [a configuration guide for HTTPS](https/index.md).
 
 Step 8: Setting the Storage Directory (optional)
 ------------------------------------------------
-
+asdfasdf
 Even though it is not important for all systems – on test setups you can probably omit this – you will often want to set
 the storage directory. This directory is used to store all media, metadata, … Often, an NFS mount is used for this. You
 can set the directory by changing `org.opencastproject.storage.dir` like:
